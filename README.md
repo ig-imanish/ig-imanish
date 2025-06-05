@@ -14,7 +14,7 @@ I'm Manish Kumar, a B.Tech student in Computer Science and Engineering from Indi
 - 🔭 Currently working on real-world backend projects using Spring Boot and MySQL.<br>
 - 📚 Actively learning advanced backend topics and exploring microservices and cloud integrations.<br>
 - 🌐 Building and maintaining my personal portfolio at <a href="https://imanish.netlify.app/" target="_blank">imanish.netlify.app</a>.<br>
-- 💼 Open to part-time, remote backend development internships to gain practical experience.<br>
+- 💼 Open to work.<br>
 </p>
 
 
