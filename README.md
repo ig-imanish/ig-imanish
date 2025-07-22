@@ -1,40 +1,79 @@
 <h1 align="center">Hey there 👋, I'm Manish Kumar!</h1>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ig-imanish&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
- 
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<div align="center"><b>Backend Developer | Spring Boot • REST APIs • Cloud Curious</b></div>
+
+---
+
+## 🚀 About Me
+
+- 🏫 I'm currently pursuing B.Tech in **Computer Science and Engineering** (India)
+- 🔭 Working on **real-world backend projects** using Spring Boot, MySQL, and Supabase
+- 🧑‍💻 Exploring *microservices*, cloud integrations, and advanced backend topics
+- 🌐 Building & maintaining: [imanish.netlify.app](https://imanish.netlify.app/)
+- 💼 Open to exciting **work opportunities**
+- ☕ Fueled by curiosity, code, and collaboration
+
+---
+
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Cloudinary](https://img.shields.io/badge/cloudinary-2C2B39?style=flat&logo=cloudinary&logoColor=blue)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/windows-0078D6?style=flat&logo=windows&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imanish02/)
+[![Email](https://img.shields.io/badge/Email-%231877F2.svg?logo=mail.ru&logoColor=white)](mailto:work.manish02@yahoo.com)
+[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/@itz_Manish02)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ig-imanish&theme=dark&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Language Used" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ig-imanish&theme=nord&date_format=M%20j%5B%2C%20Y%5D" alt="readme streak stats" />
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<h3 align="left">👨‍🎓 About Me</h3>
-<p align="left">
-I'm Manish Kumar, a B.Tech student in Computer Science and Engineering from India.<br><br>
-- 🔭 Currently working on real-world backend projects using Spring Boot and MySQL.<br>
-- 📚 Actively learning advanced backend topics and exploring microservices and cloud integrations.<br>
-- 🌐 Building and maintaining my personal portfolio at <a href="https://imanish.netlify.app/" target="_blank">imanish.netlify.app</a>.<br>
-- 💼 Open to work.<br>
-</p>
+---
 
+## ✉️ Get in Touch
 
-  
+- **Email:** [work.manish02@yahoo.com](mailto:work.manish02@yahoo.com)
+- **LinkedIn:** [imanish02](https://www.linkedin.com/in/imanish02/)
+- **Twitter:** [itz_Manish02](https://x.com/@itz_Manish02)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ig-imanish&show_icons=true&locale=en&layout=compact" alt="ig-imanish" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ig-imanish&show_icons=true&locale=en" alt="ig-imanish" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ig-imanish&" alt="ig-imanish" /></p>
-
-
-<h3 align="left">📬 Get in Touch</h3>
-<ul>
-  <li>Email: <a href="mailto:work.manish02@yahoo.com">work.manish02@yahoo.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/imanish02/" target="_blank">imanish02</a></li>
-  <li>Twitter: <a href="https://x.com/@itz_Manish02" target="_blank">itz_Manish02</a></li>
-</ul>
+<br>
 
 <div align="center">
   <h3>Thanks for stopping by! 😊</h3>
