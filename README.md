@@ -66,10 +66,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ig-imanish&theme=dark&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Language Used" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ig-imanish&theme=nord&date_format=M%20j%5B%2C%20Y%5D" alt="readme streak stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ig-imanish&theme=dark&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Language Used" height="150" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ig-imanish&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="readme streak stats" height="150" />
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ---
