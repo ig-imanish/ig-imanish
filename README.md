@@ -13,7 +13,7 @@
 - 🏫 I'm currently pursuing B.Tech in **Computer Science and Engineering** (India)
 - 🔭 Working on **real-world full stack projects** using Java Stack & MERN Stack technologies
 - 🧑‍💻 Exploring *microservices*, cloud setups, frontend UiUx designs, and other things
-- 🌐 Building & maintaining: [imanish.netlify.app](https://imanish.netlify.app/)
+- 🌐 Building & maintaining: [manixh.dev](https://manixh.dev/)
 - 💼 Open to exciting **work opportunities**
 - ☕ Fueled by curiosity, code, and collaboration
 
