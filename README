@@ -1,5 +1,5 @@
-MANISH KUMAR <3
-===============
+# MANISH KUMAR <3
+==================
 
 Hey there!
 
@@ -11,94 +11,71 @@ Currently building useful things for developers and communities.
 
 Made for speed. Open for collaboration. Always shipping.
 
---------
+---------------
 Connect With Me
 
-* Instagram     → https://instagram.com/manixh.dev
 * X / Twitter   → https://x.com/Manixh02
 * LinkedIn      → https://www.linkedin.com/in/imanish02/
 * Portfolio     → https://manixh.dev/
 * GitHub        → https://github.com/ig-imanish
+* Instagram     → https://instagram.com/manixh.dev
 * Email         → work.manishh02@gmail.com
 
---------
+--------------
 Skills & Tools
 
-Backend & Frameworks
-* Java
-* Spring Boot
-* Node.js
-* Express.js
+* Backend:      Java, Spring Boot, Node.js, Express.js
+* Frontend:     React, JavaScript, TypeScript, HTML5, CSS3
+* Databases:    MySQL, MongoDB, Redis, Firebase, Cloudinary, Supabase
+* DevOps:       Docker, Git, Linux, Postman, C / C++
 
-Frontend
-* React
-* JavaScript
-* TypeScript
-* HTML5
-* CSS3
-
-Databases & Cloud
-* MySQL
-* MongoDB
-* Redis
-* Firebase
-* Cloudinary
-* Supabase
-
-DevOps & Others
-* Docker
-* Git
-* Linux
-* Postman
-* C / C++
-
---------
+-----------------
 Featured Projects
 
-* Ossium → https://ossium.live
+* Ossium
   Free open-source helper to discover, track and contribute to GitHub projects.
   Trending feed, PR/Issue manager, GSoC ready, realtime checks, no login needed for core features.
-  Tech: Next.js + Tailwind, PostgreSQL, GitHub API
+  Links: https://ossium.live
+  Tech: Next.js + Tailwind CSS, PostgreSQL (Drizzle), GitHub API, BetterAuth
 
-* mx-icons → https://mx-icons.vercel.app
+* mx-icons
   Lightweight React icon library with 5000+ clean SVG icons.
+  Links: https://mx-icons.vercel.app • https://github.com/ig-imanish/mx-icons • NPM
   Tech: React, JavaScript, SVG
 
-* City Care → https://github.com/ig-imanish/CityCare
+* City Care
   Civic complaint platform connecting citizens and municipal authorities.
+  Links: https://github.com/ig-imanish/CityCare
   Tech: React, JavaScript, Google Maps
 
-* Secure2FA → https://github.com/ig-imanish/Secure2FA
+* Secure2FA
   Complete 2FA solution with frontend + backend service.
+  Links: https://github.com/ig-imanish/Secure2FA • Backend repo
   Tech: Java, Spring Boot, JavaScript, Redis
 
-* HeerAI → https://github.com/ig-imanish/HeerAI
+* HeerAI
   AI-powered multi-response content generator.
+  Links: https://github.com/ig-imanish/HeerAI
   Tech: Node.js, React, JavaScript
 
-* ranking-x-followers → https://github.com/ig-imanish/ranking-x-followers
+* ranking-x-followers
   Tool to rank your X (Twitter) followers by engagement/activity.
+  Links: https://github.com/ig-imanish/ranking-x-followers
   Tech: React, JavaScript
 
-* SHORTxURL → https://github.com/ig-imanish/SHORTxURL
+* SHORTxURL
   Simple, fast URL shortener with basic analytics.
-  Tech: HTML/CSS/JS + Java/Spring Boot backend
+  Links: https://github.com/ig-imanish/SHORTxURL
+  Tech: HTML, CSS, JavaScript, Java, Spring Boot
 
-* BlogZone → https://github.com/ig-imanish/BlogZone-Clg-project
-  Full blogging platform (college + personal project).
-  Tech: HTML/CSS/JS, Node.js, MongoDB
+* BlogZone
+  Full-featured blogging platform (college + personal project).
+  Links: https://github.com/ig-imanish/BlogZone-Clg-project
+  Tech: HTML, CSS, JavaScript, Node.js, MongoDB
 
---------
-What I'm Working On
-
-* Building and improving open-source developer tools
-* Exploring better ways to discover and contribute to OSS
-* Creating small, focused utilities that solve everyday problems
-* Always open to interesting collaborations and ideas
-
---------
+--------------------------
 Thanks for stopping by! :)
 
-Feel free to say hi, share ideas, or just grab a virtual coffee ☕
+Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎
 
 Let's build something cool together <3
